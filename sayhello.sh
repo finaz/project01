@@ -2,4 +2,4 @@
 
 echo "Hello word"
 
-echo "bye, bye!"
+echo "goodbye!"
