@@ -2,4 +2,4 @@
 
 echo "Hello word"
 
-echo "goodbye amici miei lettori"
+echo "goodbye, amici miei lettori"
